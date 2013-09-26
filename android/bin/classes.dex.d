@@ -1,0 +1,26 @@
+F:\qt\game_test\android\bin\classes.dex : \
+F:\qt\game_test\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+F:\qt\game_test\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+F:\qt\game_test\android\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+F:\qt\game_test\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+F:\qt\game_test\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+F:\qt\game_test\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\example\game_test\BuildConfig.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\example\game_test\R$array.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\example\game_test\R$attr.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\example\game_test\R$layout.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\example\game_test\R$string.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\example\game_test\R.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$1.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$2.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1$1.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$4.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$5.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$6.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtActivity.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtApplication$InvokeResult.class \
+F:\qt\game_test\android\bin\classes\org\qtproject\qt5\android\bindings\QtApplication.class \
+F:\qt\game_test\android\bin\dexedLibs\annotations-278419b870c0f39a1880c258d542c45f.jar \
+F:\qt\game_test\android\bin\dexedLibs\--Managed_by_Qt_Creator--QtAndroid-bundled-b3c6708f4bff2529db5167a9c284fccc.jar \

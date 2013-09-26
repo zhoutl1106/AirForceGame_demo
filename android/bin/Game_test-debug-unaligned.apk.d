@@ -1,0 +1,25 @@
+F:\qt\game_test\android\bin\Game_test-debug-unaligned.apk : \
+F:\qt\game_test\android\bin\Game_test.ap_ \
+F:\qt\game_test\android\bin\classes.dex \
+D:\adt-bundle-windows-x86-20130717\sdk\tools\support\annotations.jar \
+F:\qt\game_test\android\libs\--Managed_by_Qt_Creator--QtAndroid-bundled.jar \
+F:\qt\game_test\android\libs\armeabi-v7a\gdbserver \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_accessible_libqtaccessiblequick.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_accessible_libqtaccessiblewidgets.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqgif.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqico.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqjpeg.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqmng.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqsvg.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqtga.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqtiff.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_imageformats_libqwbmp.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_platforms_android_libqtforandroid.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_platforms_android_libqtforandroidGL.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_platforms_libqminimal.so \
+F:\qt\game_test\android\libs\armeabi-v7a\lib--Managed_by_Qt_Creator--plugins_platforms_libqoffscreen.so \
+F:\qt\game_test\android\libs\armeabi-v7a\libgame_test.so \
+F:\qt\game_test\android\libs\armeabi-v7a\libgnustl_shared.so \
+F:\qt\game_test\android\libs\armeabi-v7a\libQt5Core.so \
+F:\qt\game_test\android\libs\armeabi-v7a\libQt5Gui.so \
+F:\qt\game_test\android\libs\armeabi-v7a\libQt5Widgets.so \

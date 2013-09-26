@@ -1,0 +1,24 @@
+F:\qt\game_test\android\gen\org\qtproject\example\game_test\R.java \
+ : F:\qt\game_test\android\res\layout\splash.xml \
+F:\qt\game_test\android\res\values\libs.xml \
+F:\qt\game_test\android\res\values\strings.xml \
+F:\qt\game_test\android\res\values-de\strings.xml \
+F:\qt\game_test\android\res\values-el\strings.xml \
+F:\qt\game_test\android\res\values-es\strings.xml \
+F:\qt\game_test\android\res\values-et\strings.xml \
+F:\qt\game_test\android\res\values-fa\strings.xml \
+F:\qt\game_test\android\res\values-fr\strings.xml \
+F:\qt\game_test\android\res\values-id\strings.xml \
+F:\qt\game_test\android\res\values-it\strings.xml \
+F:\qt\game_test\android\res\values-ja\strings.xml \
+F:\qt\game_test\android\res\values-ms\strings.xml \
+F:\qt\game_test\android\res\values-nb\strings.xml \
+F:\qt\game_test\android\res\values-nl\strings.xml \
+F:\qt\game_test\android\res\values-pl\strings.xml \
+F:\qt\game_test\android\res\values-pt-rBR\strings.xml \
+F:\qt\game_test\android\res\values-ro\strings.xml \
+F:\qt\game_test\android\res\values-rs\strings.xml \
+F:\qt\game_test\android\res\values-ru\strings.xml \
+F:\qt\game_test\android\res\values-zh-rCN\strings.xml \
+F:\qt\game_test\android\res\values-zh-rTW\strings.xml \
+F:\qt\game_test\android\bin\AndroidManifest.xml \

@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+ <file>me.bmp</file>
+ <file>small.bmp</file>
+ <file>medium.bmp</file>
+ <file>big.bmp</file>
+ <file>boom.bmp</file>
+</qresource>
+</RCC>
